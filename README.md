@@ -8,4 +8,8 @@ An algorithim developed to predict hypertention based on dataset developed in py
 
 ![4](https://github.com/AlkaloidWells/MIP/assets/55930366/e84168f0-b7b3-4fd9-81ea-54051031331e)
 
-![My Image](https://github.com/AlkaloidWells/MIP/raw/master/MIP/final_project/final.mp4)
+
+
+
+https://github.com/AlkaloidWells/MIP/assets/55930366/55f6cf58-d051-4925-ab1c-0de23165feb3
+
